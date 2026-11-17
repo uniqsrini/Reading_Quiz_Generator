@@ -1,4 +1,4 @@
-# Exam Buddy — AI PDF Quiz Generator
+# Generative AI and RAG powered Reading Quiz Generator
 
 Exam Buddy is a desktop application that generates multiple-choice quizzes from PDF teaching materials using Google Gemini. It provides a Tkinter GUI, an interactive quiz mode, and Word document exports.
 
