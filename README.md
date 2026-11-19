@@ -26,8 +26,8 @@ Exam Buddy is a desktop application that generates multiple-choice quizzes from 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/exam-buddy.git
-cd exam-buddy
+git clone https://github.com/YOUR-USERNAME/Reading_Quiz_Generator.git
+cd Reading_Quiz_Generator
 ```
 
 ### 2. Create and activate a virtual environment
